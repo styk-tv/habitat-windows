@@ -4,6 +4,7 @@ Start at builing a kitchen with all the pots and pans:
 
 * https://github.com/habitat-sh/habitat/blob/master/Dockerfile#L11-L15
 * https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+* https://atlas.hashicorp.com/Microsoft/boxes/EdgeOnWindows10
 * https://github.com/chef/libarchive3-sys/pull/3
 
 # platform dependencies

@@ -1,12 +1,14 @@
 # habitat-windows
-
 This will be a long journey:
-
 Start at builing a kitchen with all the pots and pans:
 
 * https://github.com/habitat-sh/habitat/blob/master/Dockerfile#L11-L15
 * https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 * https://github.com/chef/libarchive3-sys/pull/3
+
+# platform dependencies
+* https://supermarket.chef.io/cookbooks/mingw
+* https://static.rust-lang.org/dist/rust-1.10.0-x86_64-pc-windows-gnu.msi
 
 # less related examples
 * https://github.com/chef/libarchive3-sys/pull/3
